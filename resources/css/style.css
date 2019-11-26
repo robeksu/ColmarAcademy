@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+nav{
+    background-color: burlywood;
+    color: blanchedalmond;
+    height: 64px;
+    margin: 0 24px;
+    display: flex;
+    align-items: center;
+}
+
+.lion{
+    height: 50px;
+}
+.colmar{
+    font-family: verdana;
+    color: black;
+    font-size: 32px;  
+    font-weight: normal;
+}
+.academy{
+    font-family: verdana;
+    color: gray;
+    font-size: 32px;
+    font-weight: normal;
+}
+.oncampus{
+    color: black;
+    
+    font-family: verdana;
+    font-size: 18px;
+    padding-left: 1100px;
+}
+.online{
+    color: black;
+    font-family: verdana;
+    font-size: 18px;
+    padding-left: 16px;
+}
